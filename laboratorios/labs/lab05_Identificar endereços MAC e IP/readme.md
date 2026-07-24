@@ -1,7 +1,7 @@
 # Lab 05 - Identificação de Endereços MAC e IP
 
 ## 🎯 Objetivo
-Analisar o funcionamento da comunicação em redes locais e remotas, identificando como os endereços MAC e IP são utilizados durante o envio e recebimento de pacotes.
+Analisar o funcionamento da comunicação em redes locais e remotas, compreendendo como os endereços MAC e IP são utilizados durante o envio e recebimento de pacotes.
 
 ## 📂 Componentes
 - 1 Roteador
@@ -10,11 +10,11 @@ Analisar o funcionamento da comunicação em redes locais e remotas, identifican
 - Cisco Packet Tracer
 
 ## ⚙️ Configuração
-- Utilização da topologia previamente configurada.
+- Utilização da topologia pronta.
 - Comunicação entre dispositivos da mesma rede local.
 - Comunicação entre dispositivos de redes diferentes.
 - Análise dos endereços MAC e IP em cada etapa da transmissão.
-- Utilização do modo **Simulation** para acompanhar o percurso das PDUs.
+- Utilização do modo **Simulation** para acompanhar as PDUs.
 
 ## 🧪 Testes
 - Executar o comando:
@@ -31,8 +31,8 @@ Analisar o funcionamento da comunicação em redes locais e remotas, identifican
 - IPv4
 - Ethernet
 - ICMP (Ping)
-- Endereçamento MAC
-- Endereçamento IP
+- Endereço MAC
+- Endereço de IP
 - Modelo OSI
 - Simulation Mode
 
