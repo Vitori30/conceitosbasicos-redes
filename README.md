@@ -37,9 +37,6 @@ O objetivo deste projeto é reunir, de forma organizada, os conteúdos estudados
 - Conceitos estudados
 - Comandos utilizados durante os laboratórios
 
-📁 Certificado
-- Certificado de conclusão do curso
-
 ## 📚 Competências desenvolvidas
 
 - Conceitos básicos de redes
