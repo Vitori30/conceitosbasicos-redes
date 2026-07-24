@@ -1,7 +1,7 @@
 # Lab 03 - Configuração do DHCP em um Roteador Wireless
 
 ## 🎯 Objetivo
-Configurar o serviço DHCP em um roteador wireless, definir uma nova faixa de endereços IP e permitir que os computadores obtenham automaticamente suas configurações de rede.
+Configurar o DHCP no roteador Wi-Fi, definindo uma nova faixa de IPs e deixar os PCs pegarem as configurações de rede automaticamente.
 
 ## 📂 Componentes
 - 1 Roteador Wireless
@@ -15,7 +15,7 @@ Configurar o serviço DHCP em um roteador wireless, definir uma nova faixa de en
 - DHCP habilitado.
 - Endereço inicial da faixa DHCP: **192.168.5.126**.
 - Número máximo de usuários: **75**.
-- Configuração dos três computadores para obter endereço IP automaticamente via DHCP.
+- PCs configurados pra pegar IP automático via DHCP.
 
 ## 🧪 Testes
 - Renovação do endereço IP utilizando DHCP.
@@ -51,4 +51,4 @@ Configurar o serviço DHCP em um roteador wireless, definir uma nova faixa de en
 - Testes de conectividade utilizando **ping**.
 
 ## ✅ Resultado Esperado
-Todos os computadores recebem automaticamente um endereço IP da nova faixa configurada, comunicam-se corretamente com o roteador e entre si, confirmando o funcionamento do serviço DHCP.
+Todos os computadores recebem IP da nova faixa, conseguem comunicar com o roteador e entre si, confirmando que o DHCP tá funcionando.
