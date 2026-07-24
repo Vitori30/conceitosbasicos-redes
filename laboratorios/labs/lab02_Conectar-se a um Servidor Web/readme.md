@@ -1,7 +1,7 @@
 # Lab 02 - Conectar-se a um Servidor Web
 
 ## 🎯 Objetivo
-Testar a conexão entre um PC e um servidor Web usando o IP e verificar como os pacotes trafegam na rede.
+Neste laboratório testei a conexão entre um PC e um servidor Web usando o IP e verifiquei como os pacotes trafegam na rede.
 
 ## 📂 Componentes
 - 1 PC (PC0)
@@ -17,10 +17,11 @@ Testar a conexão entre um PC e um servidor Web usando o IP e verificar como os 
 
 ## 🧪 Testes
 - Executar o comando:
-  bash
+  ```bash
   ping 172.33.100.50
 - Observar se o ping responde.
 - Acessar o navegador Web.
 - Inserir o endereço **172.33.100.50** na barra de URL.
 - Confirmar o carregamento da página Web.
+
 
