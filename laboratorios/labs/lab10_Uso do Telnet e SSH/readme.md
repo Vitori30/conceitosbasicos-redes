@@ -1,4 +1,4 @@
-# Lab 09 - Usando Serviços FTP
+# Lab 10 - Usando Serviços FTP
 
 ## 🎯 Objetivo
 Neste laboratório, utilizei o protocolo FTP para realizar o envio (upload) e o download de arquivos entre um computador cliente e um servidor FTP, compreendendo o funcionamento da transferência de arquivos em uma rede.
