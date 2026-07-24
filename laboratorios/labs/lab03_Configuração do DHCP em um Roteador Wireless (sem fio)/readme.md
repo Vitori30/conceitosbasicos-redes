@@ -1,7 +1,7 @@
 # Lab 03 - Configuração do DHCP em um Roteador Wireless
 
 ## 🎯 Objetivo
-Configurar o DHCP no roteador Wi-Fi, definindo uma nova faixa de IPs e deixar os PCs pegarem as configurações de rede automaticamente.
+Neste laboratório configurei o DHCP no roteador Wi-Fi, defini uma nova faixa de IPs e os PCs receberam automaticamente as configurações de rede, conectando-se à rede local e acessando a Internet sem erros.
 
 ## 📂 Componentes
 - 1 Roteador Wireless
@@ -10,29 +10,18 @@ Configurar o DHCP no roteador Wi-Fi, definindo uma nova faixa de IPs e deixar os
 - Cisco Packet Tracer
 
 ## ⚙️ Configuração
-- Conexão dos três PCs ao roteador wireless.
-- Endereço IP do roteador alterado para **192.168.5.1**.
-- DHCP habilitado.
-- Endereço inicial da faixa DHCP: **192.168.5.126**.
-- Número máximo de usuários: **75**.
-- PCs configurados pra pegar IP automático via DHCP.
+- Conectei os três PCs ao roteador wireless  
+- Alterei o endereço IP do roteador para **192.168.5.1**  
+- Habilitei o DHCP  
+- Configurei o endereço inicial da faixa DHCP como **192.168.5.126**  
+- Defini o número máximo de usuários como **75**  
+- Configurei os PCs para obter IP automático via DHCP  
 
 ## 🧪 Testes
-- Renovação do endereço IP utilizando DHCP.
-- Verificação da configuração com o comando:
+- Renovei o endereço IP utilizando DHCP  
+- Verifiquei a configuração com o comando:
   ```bash
   ipconfig
-  ```
-- Teste de conectividade com o roteador:
-  ```bash
-  ping 192.168.5.1
-  ```
-- Teste de conectividade entre os computadores:
-  ```bash
-  ping 192.168.5.126
-  ping 192.168.5.127
-  ```
-- Confirmação de que todos os dispositivos responderam corretamente aos testes de comunicação.
 
 ## 🛠️ Tecnologias utilizadas
 - Cisco Packet Tracer
@@ -50,5 +39,5 @@ Configurar o DHCP no roteador Wi-Fi, definindo uma nova faixa de IPs e deixar os
 - Verificação da configuração de rede com **ipconfig**.
 - Testes de conectividade utilizando **ping**.
 
-## ✅ Resultado Esperado
-Todos os computadores recebem IP da nova faixa, conseguem comunicar com o roteador e entre si, confirmando que o DHCP tá funcionando.
+## ✅ Verificação Final
+Todos os computadores receberam IP da nova faixa, conseguem comunicaram com o roteador e entre si, confirmando que o DHCP tá funcionando corretamente.
