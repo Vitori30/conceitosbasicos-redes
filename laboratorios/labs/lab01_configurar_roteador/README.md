@@ -14,20 +14,20 @@ Neste laboratório configurei um roteador Wi-Fi, conectei dispositivos cabeados 
 - Cabos Ethernet (Copper Straight-Through)
 
 ## ⚙️ Configuração
-- Modem à porta Internet do roteador.
-- PCs às portas GigabitEthernet do roteador.
-- DHCP habilitado.
-- Limite de usuários DHCP: **10**
-- SSID: **MyHome**
-- Senha Wi-Fi: **WPA2 Personal**
-- Senha da rede: **MyPassPhrase1!**
-- Senha do administrador: **MyPassword1!**
+- Conectei o modem à porta Internet do roteador  
+- Conectei os PCs às portas GigabitEthernet do roteador  
+- Habilitei o DHCP  
+- Defini o limite de usuários DHCP como **10**  
+- Configurei o SSID como **MyHome**  
+- Configurei a senha Wi-Fi como **WPA2 Personal**  
+- Defini a senha da rede como **MyPassPhrase1!**  
+- Defini a senha do administrador como **MyPassword1!**  
 
 ## 🧪 Testes
-- Obtenção automática de endereço IP via DHCP tanto os PCs quanto O Laptop.
-- Laptop conectado à rede Wi-Fi.
-- acesso ao site **skillsforall.srv**.
-- Conexão dos PCs.
+- Verifiquei a obtenção automática de endereço IP via DHCP nos PCs e no Laptop  
+- Conectei o Laptop à rede Wi-Fi  
+- Acessei o site **skillsforall.srv**  
+- Testei a conexão dos PCs  
 
 ## 🛠️ Tecnologias utilizadas
 - Cisco Packet Tracer
