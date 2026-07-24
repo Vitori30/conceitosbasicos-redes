@@ -1,7 +1,7 @@
 # Lab 01 - Configurar um Roteador sem Fio e Clientes
 
 ## 🎯 Objetivo
-Neste laboratório irei configurar um roteador Wi-fi, conectar dispositivos cabeados e sem fio e configurar/ativar o DHCP e garantindo que todos tenham acesso à internet.
+Neste laboratório configurei um roteador Wi-Fi, conectei dispositivos cabeados e sem fio e ativei o DHCP, garantindo que todos tivessem acesso à internet.
 
 ## 📂 Componentes
 - 1 Home Wireless Router
