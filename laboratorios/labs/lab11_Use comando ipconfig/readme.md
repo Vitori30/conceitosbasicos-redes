@@ -1,4 +1,4 @@
-# Lab 10 - Usando o Comando `ipconfig`
+# Lab 11 - Usando o Comando `ipconfig`
 
 ## 🎯 Objetivo
 Neste laboratório, utilizei o comando `ipconfig /all` para identificar uma configuração incorreta em um computador, analisando os parâmetros de rede e corrigindo o problema de conectividade.
