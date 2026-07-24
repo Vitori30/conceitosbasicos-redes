@@ -1,7 +1,7 @@
 # Lab 01 - Configurar um Roteador sem Fio e Clientes
 
 ## 🎯 Objetivo
-Configurar um roteador sem fio, conectar dispositivos cabeados e sem fio, configurar o DHCP e validar a comunicação entre os dispositivos e a Internet.
+Configurar um roteador Wi-fi, conectar dispositivos cabeados e sem fio, configurar/ativar o DHCP e garantir que todos tenham acesso à internet.
 
 ## 📂 Componentes
 - 1 Home Wireless Router
@@ -14,21 +14,20 @@ Configurar um roteador sem fio, conectar dispositivos cabeados e sem fio, config
 - Cabos Ethernet (Copper Straight-Through)
 
 ## ⚙️ Configuração
-- Conexão do modem à porta Internet do roteador.
-- Conexão dos computadores às portas GigabitEthernet do roteador.
+- Modem à porta Internet do roteador.
+- PCs às portas GigabitEthernet do roteador.
 - DHCP habilitado.
 - Limite de usuários DHCP: **10**
 - SSID: **MyHome**
-- Segurança Wi-Fi: **WPA2 Personal**
+- Senha Wi-Fi: **WPA2 Personal**
 - Senha da rede: **MyPassPhrase1!**
 - Senha do administrador: **MyPassword1!**
 
 ## 🧪 Testes
-- Obtenção automática de endereço IP via DHCP.
-- Conexão do laptop à rede Wi-Fi.
-- Teste de acesso ao site **skillsforall.srv**.
-- Verificação da conectividade do Office PC.
-- Verificação da conectividade do Bedroom PC.
+- Obtenção automática de endereço IP via DHCP tanto os PCs quanto O Laptop.
+- Laptop conectado à rede Wi-Fi.
+- acesso ao site **skillsforall.srv**.
+- Conexão dos PCs.
 
 ## 🛠️ Tecnologias utilizadas
 - Cisco Packet Tracer
@@ -47,5 +46,5 @@ Configurar um roteador sem fio, conectar dispositivos cabeados e sem fio, config
 - Configuração de rede local (LAN).
 
 ## ✅ Resultado Esperado
-Todos os dispositivos obtêm um endereço IP automaticamente, conectam-se à rede local e acessam a Internet com sucesso.
+Todos os dispositivos recebem o endereço IP automaticamente, conectam à rede local e acessam a Internet sem erro.
 
