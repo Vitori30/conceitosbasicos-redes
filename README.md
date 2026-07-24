@@ -17,7 +17,7 @@ Portfólio de laboratórios do curso de conceitos básicos de redes.
 - Lab 12 - Uso do comando ping
 
 ## 📜 Certificados
-- [Cisco Networking Academy - Conceitos Básicos de Redes] certificado redes/Networking_Basics_certificate_vitoria9030-gmail-com_0640de66-50b8-4313-83ee-2f89ef77d2b0.pdf
-
+- [Cisco Networking Academy - Conceitos Básicos de Redes] [certificado redes/Networking_Basics_certificate_vitoria9030-gmail-com_0640de66-50b8-4313-83ee-2f89ef77d2b0.pdf
+](https://github.com/Vitori30/conceitosbasicos-redes/blob/c1495737c943d23d1d5612e235d00bbd473057ca/certificado%20redes/Networking_Basics_certificate_vitoria9030-gmail-com_0640de66-50b8-4313-83ee-2f89ef77d2b0.pdf)
 ## 🎯 Objetivo
 Documentar minha evolução no curso e compartilhar exemplos práticos de redes.
