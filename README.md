@@ -1,6 +1,6 @@
 # Conceitos Básicos de Redes 🌐
 
-Portfólio de laboratórios e projetos do curso de conceitos básicos de redes.
+Portfólio de laboratórios do curso de conceitos básicos de redes.
 
 ## 🧪 Laboratórios
 - Lab 01 - Configurar um Roteador sem fio e um cliente
