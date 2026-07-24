@@ -1,7 +1,7 @@
 # Lab 02 - Conectar-se a um Servidor Web
 
 ## 🎯 Objetivo
-Verificar a conectividade entre um cliente e um servidor Web utilizando o endereço IP e observar como os pacotes são transmitidos pela rede.
+Testar a conexão entre um PC e um servidor Web usando o IP e verificar como os pacotes trafegam na rede.
 
 ## 📂 Componentes
 - 1 PC (PC0)
@@ -9,8 +9,8 @@ Verificar a conectividade entre um cliente e um servidor Web utilizando o endere
 - Cisco Packet Tracer
 
 ## ⚙️ Configuração
-- Host de origem: **PC0**
-- Endereço IP do servidor Web: **172.33.100.50**
+- Origem: **PC0**
+- IP do servidor Web: **172.33.100.50**
 - Ferramentas utilizadas:
 - Prompt de Comando (Command Prompt)
 - Navegador Web (Web Browser)
@@ -19,8 +19,8 @@ Verificar a conectividade entre um cliente e um servidor Web utilizando o endere
 - Executar o comando:
   bash
   ping 172.33.100.50
-- Verificar as respostas do ping.
-- Acessar o servidor utilizando o navegador Web.
+- Observar se o ping responde.
+- Acessar o navegador Web.
 - Inserir o endereço **172.33.100.50** na barra de URL.
 - Confirmar o carregamento da página Web.
 
