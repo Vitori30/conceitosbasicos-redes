@@ -16,12 +16,12 @@ Neste laboratório testei a conexão entre um PC e um servidor Web usando o IP e
 - Navegador Web (Web Browser)
 
 ## 🧪 Testes
-- Executar o comando:
+- Executei o comando:
   ```bash
   ping 172.33.100.50
-- Observar se o ping responde.
-- Acessar o navegador Web.
+- Observei se o ping responde.
+- Acessei o navegador Web.
 - Inserir o endereço **172.33.100.50** na barra de URL.
-- Confirmar o carregamento da página Web.
+- Confirmei o carregamento da página Web.
 
 
