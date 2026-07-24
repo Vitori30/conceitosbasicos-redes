@@ -1,3 +1,5 @@
 ## 📸 Imagens
-1.Topologia da rede cabeada
-2. Teste de conexão através do comando ping
+
+1. Rede PC 2 desconfigurado
+2. Ipconfig
+3. Resolução
