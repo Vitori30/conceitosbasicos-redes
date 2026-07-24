@@ -1,3 +1,5 @@
 ## 📸 Imagens
-1.Teste de conexão através do comando ping
-2. Simulação para verificar o percuso do pacote.
+
+1. Topologia da rede antes da implementação do roteamento.
+2. Teste de conectividade utilizando o comando `ping`.
+3. Simulação do percurso dos pacotes no modo **Simulation**.
