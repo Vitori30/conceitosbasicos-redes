@@ -1,7 +1,7 @@
 # Lab 04 - Examinando o NAT em um Roteador Wireless
 
 ## 🎯 Objetivo
-Examinar o funcionamento do NAT (Network Address Translation) em um roteador wireless, configurar clientes utilizando DHCP e analisar a tradução de endereços durante a comunicação entre a rede local e a Internet.
+Entender como o NAT funciona no roteador Wi-Fi, configurar os clientes via DHCP e analisar como os endereços são traduzidos quando a rede local comunica com a Internet.
 
 ## 📂 Componentes
 - 1 Roteador Wireless
@@ -11,8 +11,8 @@ Examinar o funcionamento do NAT (Network Address Translation) em um roteador wir
 - Cisco Packet Tracer
 
 ## ⚙️ Configuração
-- Conexão dos quatro computadores ao roteador wireless.
-- Configuração dos clientes para obter endereço IP automaticamente via DHCP.
+- PCs conectados ao roteador wireless.
+- Clientes obtendo endereço IP automaticamente via DHCP.
 - Acesso à interface de gerenciamento do roteador.
 - Verificação da configuração da rede local e da conexão com a Internet.
 - Análise do endereço IP da interface WAN e da rede LAN.
@@ -20,10 +20,10 @@ Examinar o funcionamento do NAT (Network Address Translation) em um roteador wir
 ## 🧪 Testes
 - Obter endereço IP automaticamente utilizando DHCP.
 - Verificar a configuração da rede com o comando `ipconfig /all`.
-- Confirmar os endereços IP atribuídos aos clientes.
+- Vaidar IP atribuídos aos clientes.
 - Criar uma PDU Complexa utilizando o protocolo HTTP.
 - Observar o tráfego no modo **Simulation**.
-- Analisar a tradução NAT comparando os cabeçalhos de entrada (Inbound) e saída (Outbound).
+- Comparar a tradução NAT comparando os cabeçalhos de entrada (Inbound) e saída (Outbound).
 
 ## 🛠️ Tecnologias utilizadas
 - Cisco Packet Tracer
@@ -40,7 +40,7 @@ Examinar o funcionamento do NAT (Network Address Translation) em um roteador wir
 - Compreensão do funcionamento do NAT.
 - Análise da tradução de endereços IP.
 - Interpretação dos cabeçalhos de pacotes.
-- Monitoramento do tráfego utilizando o modo Simulation.
+- Monitorar tráfego utilizando o modo Simulation.
 
 ## ✅ Resultado Esperado
-Os computadores recebem automaticamente endereços IP privados via DHCP, comunicam-se com a rede externa através do roteador wireless e a tradução NAT é realizada corretamente, permitindo o acesso ao servidor Web.
+Os PCs recebem IP privado via DHCP, conseguem acessar a Internet pelo roteador e o NAT traduz os endereços corretamente, permitindo que a rede local se comunique com o servidor Web.
