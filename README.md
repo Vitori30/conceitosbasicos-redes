@@ -182,23 +182,6 @@ Durante a elaboração deste projeto foram desenvolvidas habilidades como:
 
 ---
 
-# 📈 Próximos Passos
-
-Pretendo expandir este repositório com novos conteúdos relacionados a:
-
-- VLAN
-- ACL
-- STP
-- OSPF
-- RIP
-- EIGRP
-- IPv6
-- Segurança de Redes
-- CCST Networking
-- CCNA
-
----
-
 # 📖 Sobre este Projeto
 
 Este projeto representa minha jornada de aprendizado em Redes de Computadores.
@@ -215,12 +198,12 @@ Estudante de Tecnologia | Redes de Computadores | Cibersegurança
 
 🔗 GitHub: https://github.com/Vitori30
 
-🔗 LinkedIn: *(adicione o link do seu perfil)*
+🔗 LinkedIn: *(https://www.linkedin.com/in/vit%C3%B3ria-santos-s/)*
 
 ---
 
 # ⭐ Agradecimentos
 
-Agradeço à **Cisco Networking Academy** pela oportunidade de aprofundar meus conhecimentos em Redes de Computadores por meio de conteúdos teóricos e atividades práticas.
+Agradeço à **Cisco Networking Academy** e ao projero **Mulher Digital** pela oportunidade de aprofundar meus conhecimentos em Redes de Computadores por meio de conteúdos teóricos e atividades práticas.
 
 Este projeto representa não apenas a conclusão de um curso, mas também meu compromisso com a aprendizagem contínua e o desenvolvimento profissional na área de Tecnologia da Informação.
