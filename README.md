@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner-networking.png.jpeg" alt="Networking Basics Banner" width="100%">
-</p>
+
 
 # 📡 Conceitos Básicos de Redes
 
