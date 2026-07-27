@@ -1,1 +1,0 @@
-banner-networking.png
