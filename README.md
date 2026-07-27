@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner-networking.png.jpeg" alt="Networking Basics Banner" width="100%">
+</p>
 # 📡 Conceitos Básicos de Redes
 
 > Projeto desenvolvido durante meus estudos na **Cisco Networking Academy**, com o objetivo de documentar os principais conceitos de Redes de Computadores, registrar os laboratórios realizados no Cisco Packet Tracer e praticar documentação técnica utilizando Git e GitHub.
