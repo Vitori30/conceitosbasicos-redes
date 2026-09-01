@@ -1,12 +1,12 @@
 
 
-# 📡 Conceitos Básicos de Redes
+# Conceitos Básicos de Redes
 
 > Projeto desenvolvido durante meus estudos na **Cisco Networking Academy**, com o objetivo de documentar os principais conceitos de Redes de Computadores, registrar os laboratórios realizados no Cisco Packet Tracer e praticar documentação técnica utilizando Git e GitHub.
 
 ---
 
-# 🎯 Objetivo
+# Objetivo
 
 Este repositório foi criado para consolidar os conhecimentos adquiridos durante o curso **Conceitos Básicos de Redes (Networking Basics)**.
 
@@ -14,12 +14,12 @@ Além de servir como material de consulta, este projeto demonstra minha evoluç�
 
 ---
 
-# 📂 Estrutura do Projeto
+#  Estrutura do Projeto
 
 ```text
 conceitosbasicos-redes
 │
-├── 📁 anotacoes
+├── anotacoes
 │   ├── 01_Modelo_OSI
 │   ├── 02_Modelo_TCP-IP
 │   ├── 03_Enderecamento_IP
@@ -37,13 +37,13 @@ conceitosbasicos-redes
 │   ├── 15_Comandos_Cisco
 │   └── 16_Siglas
 │
-├── 📁 laboratorios
+├── laboratorios
 │   ├── lab01
 │   ├── lab02
 │   ├── ...
 │   └── lab12
 │
-├── 📁 certificado redes
+├── certificado redes
 │   └── Networking_Basics_certificate.pdf
 │
 └── README.md
@@ -51,14 +51,14 @@ conceitosbasicos-redes
 
 ---
 
-# 📚 Conteúdo Estudado
+#  Conteúdo Estudado
 
-## 📖 Modelos de Rede
+##  Modelos de Rede
 
 - Modelo OSI
 - Modelo TCP/IP
 
-## 🌐 Endereçamento
+##  Endereçamento
 
 - IPv4
 - IPv6
@@ -67,7 +67,7 @@ conceitosbasicos-redes
 - Endereço MAC
 - ARP
 
-## 🔗 Protocolos
+## Protocolos
 
 - TCP
 - UDP
@@ -79,14 +79,14 @@ conceitosbasicos-redes
 - DNS
 - NAT
 
-## 🖥️ Equipamentos de Rede
+## Equipamentos de Rede
 
 - Switch
 - Roteador
 - Access Point
 - Servidor
 
-## 📡 Redes
+## Redes
 
 - LAN
 - WAN
@@ -95,7 +95,7 @@ conceitosbasicos-redes
 - WiMAX
 - Ethernet
 
-## ⚙️ Cisco
+## Cisco
 
 - Cisco IOS
 - CLI
@@ -106,7 +106,7 @@ conceitosbasicos-redes
 
 ---
 
-# 🖥️ Laboratórios Desenvolvidos
+# Laboratórios Desenvolvidos
 
 Durante o curso foram realizados diversos laboratórios utilizando o **Cisco Packet Tracer**, permitindo aplicar na prática os conceitos estudados.
 
@@ -125,27 +125,27 @@ Os laboratórios abordam temas como:
 
 Cada laboratório contém:
 
-- 🎯 Objetivo
-- 📝 Procedimentos realizados
-- ⚙️ Configurações aplicadas
-- 🖼️ Evidências (imagens)
-- ✅ Resultado obtido
+- Objetivo
+- Procedimentos realizados
+- Configurações aplicadas
+- Evidências (imagens)
+- Resultado obtido
 
 ---
 
-# 📝 Anotações
+# Anotações
 
 As anotações foram desenvolvidas em **Markdown**, buscando facilitar o aprendizado por meio de:
 
-- 🧠 Mapas mentais
-- 📖 Explicações simplificadas
-- 💡 Exemplos práticos
-- 📌 Resumos
+- Mapas mentais
+- Explicações simplificadas
+- Exemplos práticos
+- Resumos
 - 📚 Conceitos fundamentais de Redes de Computadores
 
 ---
 
-# 🛠️ Ferramentas Utilizadas
+# Ferramentas Utilizadas
 
 - Cisco Packet Tracer
 - Git
@@ -155,21 +155,21 @@ As anotações foram desenvolvidas em **Markdown**, buscando facilitar o aprendi
 
 ---
 
-# 🎓 Certificação
+# Certificação
 
 Este repositório contém o certificado de conclusão do curso **Networking Basics (Conceitos Básicos de Redes)**, emitido pela **Cisco Networking Academy**.
 
 | Curso | Instituição | Status |
 |--------|-------------|--------|
-| Networking Basics | Cisco Networking Academy | ✅ Concluído |
+| Networking Basics | Cisco Networking Academy | Concluído |
 
-📄 **Visualizar certificado**
+ **Visualizar certificado**
 
 ➡️ [Networking Basics Certificate](./certificado%20redes/Networking_Basics_certificate_vitoria9030-gmail-com_0640de66-50b8-4313-83ee-2f89ef77d2b0.pdf)
 
 ---
 
-# 🚀 Competências Desenvolvidas
+# Competências Desenvolvidas
 
 Durante a elaboração deste projeto foram desenvolvidas habilidades como:
 
@@ -184,7 +184,7 @@ Durante a elaboração deste projeto foram desenvolvidas habilidades como:
 
 ---
 
-# 📖 Sobre este Projeto
+#  Sobre este Projeto
 
 Este projeto representa minha jornada de aprendizado em Redes de Computadores.
 
@@ -192,7 +192,7 @@ O objetivo é manter este repositório em constante evolução, registrando novo
 
 ---
 
-# 👩‍💻 Autora
+#  Autora
 
 **Vitória Silva**
 
@@ -204,7 +204,7 @@ Estudante de Tecnologia | Redes de Computadores | Cibersegurança
 
 ---
 
-# ⭐ Agradecimentos
+# Agradecimentos
 
 Agradeço à **Cisco Networking Academy** e ao projero **Mulher Digital** pela oportunidade de aprofundar meus conhecimentos em Redes de Computadores por meio de conteúdos teóricos e atividades práticas.
 
