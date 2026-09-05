@@ -1,15 +1,15 @@
 # Lab 12 - Usando o Comando `ping`
 
-## 🎯 Objetivo
+## Objetivo
 Neste laboratório, utilizei o comando `ping` para identificar problemas de conectividade em uma rede, analisando a comunicação entre os computadores e um servidor Web e corrigindo configurações incorretas.
 
-## 📂 Componentes
+## Componentes
 - PCs da rede
 - Servidor Web (`www.cisco.pka`)
 - Servidor DNS
 - Cisco Packet Tracer
 
-## ⚙️ Configuração
+## Configuração
 - Testei o acesso ao servidor Web utilizando o navegador.
 - Identifiquei os computadores que apresentavam falha de conexão.
 - Executei o comando `ping` utilizando o nome de domínio e o endereço IP do servidor.
@@ -17,7 +17,7 @@ Neste laboratório, utilizei o comando `ping` para identificar problemas de cone
 - Corrigi a configuração do servidor DNS nos computadores com problema.
 - Verifiquei novamente a conectividade após a correção.
 
-## 🧪 Testes
+## Testes
 - Acessei `www.cisco.pka` pelo navegador Web.
 - Executei `ping www.cisco.pka`.
 - Executei `ping` utilizando o endereço IP do servidor Web.
@@ -25,7 +25,7 @@ Neste laboratório, utilizei o comando `ping` para identificar problemas de cone
 - Corrigi as configurações em **IP Configuration**.
 - Confirmei o acesso ao servidor Web após a correção.
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 - Cisco Packet Tracer
 - ICMP (Ping)
 - DNS (Domain Name System)
@@ -33,7 +33,7 @@ Neste laboratório, utilizei o comando `ping` para identificar problemas de cone
 - Command Prompt
 - Navegador Web
 
-## 💡 Habilidades desenvolvidas
+## Habilidades desenvolvidas
 - Diagnóstico de problemas de conectividade.
 - Utilização do comando `ping`.
 - Verificação da resolução de nomes pelo servidor DNS.
@@ -41,5 +41,5 @@ Neste laboratório, utilizei o comando `ping` para identificar problemas de cone
 - Correção de configurações incorretas de DNS.
 - Validação da comunicação entre cliente e servidor.
 
-## ✅ Verificação Final
+## Verificação Final
 Verifiquei que um computador pode conseguir alcançar o servidor pelo endereço IP, mas não pelo nome de domínio quando existe uma configuração incorreta do servidor DNS. Após corrigir essa configuração, a comunicação com o servidor Web foi restabelecida.
