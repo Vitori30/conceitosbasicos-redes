@@ -1,27 +1,27 @@
 # Lab 05 - Identificação de Endereços MAC e IP
 
-## 🎯 Objetivo
+## Objetivo
 Neste laboratório analisei o funcionamento da comunicação em redes locais e remotas, compreendendo como os endereços MAC e IP foram utilizados durante o envio e recebimento de pacotes.
 
-## 📂 Componentes
+## Componentes
 - 1 Roteador  
 - 1 Wireless Access Point  
 - Hosts em redes locais e remotas  
 - Cisco Packet Tracer  
 
-## ⚙️ Configuração
+## Configuração
 - Utilizei a topologia pronta  
 - Configurei a comunicação entre dispositivos da mesma rede local  
 - Configurei a comunicação entre dispositivos de redes diferentes  
 - Analisei os endereços MAC e IP em cada etapa da transmissão  
 - Utilizei o modo **Simulation** para acompanhar as PDUs  
 
-## 🧪 Testes
+## Testes
 - Executei o comando:
   ```bash
   ping 172.16.31.2
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 - Cisco Packet Tracer
 - IPv4
 - Ethernet
@@ -31,7 +31,7 @@ Neste laboratório analisei o funcionamento da comunicação em redes locais e r
 - Modelo OSI
 - Simulation Mode
 
-## 💡 Habilidades desenvolvidas
+## Habilidades desenvolvidas
 - Identificação de endereços MAC e IPv4.
 - Diferença entre comunicação em rede local e rede remota.
 - Análise do funcionamento dos roteadores durante o encaminhamento de pacotes.
@@ -39,5 +39,5 @@ Neste laboratório analisei o funcionamento da comunicação em redes locais e r
 - Compreensão da relação entre as camadas 2 e 3 do modelo OSI.
 - Análise do processo de encaminhamento de pacotes em uma rede.
 
-## ✅ Verificação Final
+## Verificação Final
 Compreendi como os endereços MAC e IP são utilizados durante a comunicação em redes locais e remotas, identificando as alterações realizadas pelo roteador ao encaminhar os pacotes entre diferentes redes.
