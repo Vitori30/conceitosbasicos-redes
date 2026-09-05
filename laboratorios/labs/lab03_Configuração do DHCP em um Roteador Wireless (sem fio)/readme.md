@@ -1,15 +1,15 @@
 # Lab 03 - Configuração do DHCP em um Roteador Wireless
 
-## 🎯 Objetivo
+## Objetivo
 Neste laboratório configurei o DHCP no roteador Wi-Fi, defini uma nova faixa de IPs e os PCs receberam automaticamente as configurações de rede, conectando-se à rede local e acessando a Internet sem erros.
 
-## 📂 Componentes
+## Componentes
 - 1 Roteador Wireless
 - 3 PCs (PC0, PC1 e PC2)
 - Cabos Ethernet (Copper Straight-Through)
 - Cisco Packet Tracer
 
-## ⚙️ Configuração
+## Configuração
 - Conectei os três PCs ao roteador wireless  
 - Alterei o endereço IP do roteador para **192.168.5.1**  
 - Habilitei o DHCP  
@@ -17,13 +17,13 @@ Neste laboratório configurei o DHCP no roteador Wi-Fi, defini uma nova faixa de
 - Defini o número máximo de usuários como **75**  
 - Configurei os PCs para obter IP automático via DHCP  
 
-## 🧪 Testes
+## Testes
 - Renovei o endereço IP utilizando DHCP  
 - Verifiquei a configuração com o comando:
   ```bash
   ipconfig
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 - Cisco Packet Tracer
 - DHCP
 - IPv4
@@ -31,7 +31,7 @@ Neste laboratório configurei o DHCP no roteador Wi-Fi, defini uma nova faixa de
 - Roteador Wireless
 - Command Prompt (ipconfig e ping)
 
-## 💡 Habilidades desenvolvidas
+## Habilidades desenvolvidas
 - Configuração de DHCP em roteador wireless.
 - Alteração da faixa de endereços IP da rede.
 - Configuração automática de clientes utilizando DHCP.
@@ -39,5 +39,5 @@ Neste laboratório configurei o DHCP no roteador Wi-Fi, defini uma nova faixa de
 - Verificação da configuração de rede com **ipconfig**.
 - Testes de conectividade utilizando **ping**.
 
-## ✅ Verificação Final
+## Verificação Final
 Todos os computadores receberam IP da nova faixa, conseguem comunicaram com o roteador e entre si, confirmando que o DHCP tá funcionando corretamente.
