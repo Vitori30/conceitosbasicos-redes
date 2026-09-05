@@ -1,9 +1,9 @@
 # Lab 01 - Configurar um Roteador sem Fio e Clientes
 
-## 🎯 Objetivo
+##  Objetivo
 Neste laboratório configurei um roteador Wi-Fi, conectei dispositivos cabeados e sem fio e ativei o DHCP, garantindo que todos tivessem acesso à internet.
 
-## 📂 Componentes
+##  Componentes
 - 1 Home Wireless Router
 - 1 Cable Modem
 - 1 Cable Splitter
@@ -13,7 +13,7 @@ Neste laboratório configurei um roteador Wi-Fi, conectei dispositivos cabeados 
 - Cabos Coaxiais
 - Cabos Ethernet (Copper Straight-Through)
 
-## ⚙️ Configuração
+## Configuração
 - Conectei o modem à porta Internet do roteador  
 - Conectei os PCs às portas GigabitEthernet do roteador  
 - Habilitei o DHCP  
@@ -23,13 +23,13 @@ Neste laboratório configurei um roteador Wi-Fi, conectei dispositivos cabeados 
 - Defini a senha da rede como **MyPassPhrase1!**  
 - Defini a senha do administrador como **MyPassword1!**  
 
-## 🧪 Testes
+## Testes
 - Verifiquei a obtenção automática de endereço IP via DHCP nos PCs e no Laptop  
 - Conectei o Laptop à rede Wi-Fi  
 - Acessei o site **skillsforall.srv**  
 - Testei a conexão dos PCs  
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 - Cisco Packet Tracer
 - DHCP
 - IPv4
@@ -37,7 +37,7 @@ Neste laboratório configurei um roteador Wi-Fi, conectei dispositivos cabeados 
 - Wi-Fi
 - WPA2 Personal
 
-## 💡 Habilidades desenvolvidas
+## Habilidades desenvolvidas
 - Configuração de roteador doméstico.
 - Configuração de rede sem fio.
 - Configuração de DHCP.
