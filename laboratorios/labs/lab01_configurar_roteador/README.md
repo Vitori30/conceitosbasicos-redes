@@ -45,6 +45,6 @@ Neste laboratório configurei um roteador Wi-Fi, conectei dispositivos cabeados 
 - Testes de conectividade.
 - Configuração de rede local (LAN).
 
-## ✅ Verificação Final
+## Verificação Final
 Após realizar as configurações necessárias, todos os dispositivos receberam automaticamente um endereço IP, estão conectados à rede local e acessam a Internet sem erros.
 
