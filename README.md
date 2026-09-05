@@ -141,7 +141,7 @@ As anotações foram desenvolvidas em **Markdown**, buscando facilitar o aprendi
 - Explicações simplificadas
 - Exemplos práticos
 - Resumos
-- 📚 Conceitos fundamentais de Redes de Computadores
+- Conceitos fundamentais de Redes de Computadores
 
 ---
 
