@@ -1,21 +1,21 @@
 # Lab 02 - Conectar-se a um Servidor Web
 
-## 🎯 Objetivo
+## Objetivo
 Neste laboratório testei a conexão entre um PC e um servidor Web usando o IP e verifiquei como os pacotes trafegam na rede.
 
-## 📂 Componentes
+## Componentes
 - 1 PC (PC0)
 - 1 Servidor Web
 - Cisco Packet Tracer
 
-## ⚙️ Configuração
+## Configuração
 - Origem: **PC0**
 - IP do servidor Web: **172.33.100.50**
 - Ferramentas utilizadas:
 - Prompt de Comando (Command Prompt)
 - Navegador Web (Web Browser)
 
-## 🧪 Testes
+## Testes
 - Executei o comando:
   ```bash
   ping 172.33.100.50
